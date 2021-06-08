@@ -1,0 +1,90 @@
+1623056034738	geckodriver	INFO	Listening on 127.0.0.1:37517
+1623056035742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4wkNTJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1623056036096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4wkNTJ/search.json.mozlz4", (void 0)))
+1623056037558	Marionette	INFO	Listening on port 34211
+1623056037590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623056505227	geckodriver	INFO	Listening on 127.0.0.1:58521
+1623056506228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQsq2E1"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1623056506528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQsq2E1/search.json.mozlz4", (void 0)))
+1623056507956	Marionette	INFO	Listening on port 37593
+1623056508057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623056591917	geckodriver	INFO	Listening on 127.0.0.1:55813
+1623056591926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezmYoOp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1623056592235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezmYoOp/search.json.mozlz4", (void 0)))
+1623056593662	Marionette	INFO	Listening on port 45607
+1623056593749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623056603169	geckodriver	INFO	Listening on 127.0.0.1:34335
+1623056603176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMVTqjG"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1623056603483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMVTqjG/search.json.mozlz4", (void 0)))
+1623056604966	Marionette	INFO	Listening on port 37705
+1623056605021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623056663234	geckodriver	INFO	Listening on 127.0.0.1:37211
+1623056664236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1cuWEQ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1623056664547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1cuWEQ/search.json.mozlz4", (void 0)))
+1623056665994	Marionette	INFO	Listening on port 38869
+1623056666062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623056677680	geckodriver	INFO	Listening on 127.0.0.1:60241
+1623056677689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1wAoS5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+1623056678022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1wAoS5/search.json.mozlz4", (void 0)))
+1623056679841	Marionette	INFO	Listening on port 45185
+1623056679970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=36cd9526e6e83b1ee7861c768539347a, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
